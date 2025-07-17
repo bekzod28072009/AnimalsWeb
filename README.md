@@ -45,4 +45,44 @@ Welcome to **AnimalsWeb**, a full-stack pet platform where users can **adopt ani
 ---
 
 ## 📂 Folder Structure
+AnimalsWeb/
+├── AnimalsWeb.API/ # ASP.NET Core API
+├── AnimalsWeb.Domain/ # Domain models
+├── AnimalsWeb.Service/ # Services and logic
+├── AnimalsWeb.Repository/ # Data access (EF Core)
+├── AnimalsWeb.Frontend/ # Static frontend (HTML/CSS/JS)
+└── README.md
 
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/bekzod28072009/AnimalsWeb.git
+cd AnimalsWeb
+```
+### 2. Run the backend (C# .NET 8):
+```bash
+cd AnimalsWeb.API
+dotnet restore
+dotnet run
+```
+### 3. Open the frontend:
+You can open the index.html file directly in a browser, or use Live Server in VS Code.
+
+### 📸 Screenshots
+| Home Page                 | Lost & Found                    | Adopt a Pet                |
+| ------------------------- | ------------------------------- | -------------------------- |
+| ![](]<img width="1167" height="1232" alt="image" src="https://github.com/user-attachments/assets/b7c30af4-5da1-45b7-a26c-fd751c137641" />
+) | ![](screenshots/lost-found.png) | ![](screenshots/adopt.png) |
+
+## 🤝 Contributing
+Contributions are welcome! Whether it's improving UI, building backend endpoints, or adding a new feature — feel free to fork the project and submit a pull request.
+
+## 🐾 Why AnimalsWeb?
+Because every pet deserves a home.
+Because no owner should lose hope.
+And because technology can bring tails back to wagging. 🐕
