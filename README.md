@@ -76,7 +76,7 @@ You can open the index.html file directly in a browser, or use Live Server in VS
 ### 📸 Screenshots
 | Home Page                 |
 | ------------------------- |
-| ![](]<img width="1167" height="1232" alt="image" src="https://github.com/user-attachments/assets/b7c30af4-5da1-45b7-a26c-fd751c137641" />) |
+| <img width="1167" height="1232" alt="image" src="https://github.com/user-attachments/assets/b7c30af4-5da1-45b7-a26c-fd751c137641" /> |
 
 ## 🤝 Contributing
 Contributions are welcome! Whether it's improving UI, building backend endpoints, or adding a new feature — feel free to fork the project and submit a pull request.
