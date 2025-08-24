@@ -85,3 +85,5 @@ Contributions are welcome! Whether it's improving UI, building backend endpoints
 Because every pet deserves a home.
 Because no owner should lose hope.
 And because technology can bring tails back to wagging. 🐕
+
+bekzod28072009.github.io/Animals/
